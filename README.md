@@ -1,5 +1,5 @@
 # jspsych-6.1.0
-This repository contains the jsPsych version 6.1.0. This repository is used only to enable the online-imitation-inhibition task on Qualtrics (https://www.qualtrics.com/). For this reason it is not directly modifiable to make the task work on Qualtrics without problems. For this reason, this repository is archived. We do not own any rights to jsPsych. If you want to contribute to jsPsych please refer to the [jsPsych Repository](https://github.com/jspsych/jsPsych). 
+This repository contains the jsPsych version 6.1.0. This repository is used only to enable the online-imitation-inhibition task on Qualtrics (https://www.qualtrics.com/). For this reason it is not directly modifiable and thus archived to make the task work on Qualtrics without problems. We do not own any rights to jsPsych. If you want to contribute to jsPsych please refer to the [jsPsych Repository](https://github.com/jspsych/jsPsych). 
 
 ## Excerpts from the readme of the jsPsych repository
 
